@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cli_parser"
-version = "0.1.1"
+version = "0.1.2"
 description = "Simple CLI Parser with command chaining"
 authors = ["Ran Zvi <ran.zvi@bluevine.com>"]
 maintainers = ["Ran Zvi <ran.zvi@bluevine.com>"]
