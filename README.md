@@ -48,3 +48,5 @@ Enter command:
 'Quitting Interpreter'
 
 ```
+
+pypi: https://pypi.org/project/cli-parser/
