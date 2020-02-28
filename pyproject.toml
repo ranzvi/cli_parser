@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "cli_parser"
+version = "0.1.1"
+description = "Simple CLI Parser with command chaining"
+authors = ["Ran Zvi <ran.zvi@bluevine.com>"]
+maintainers = ["Ran Zvi <ran.zvi@bluevine.com>"]
+license = "MIT"
+readme = "README.md"
+homepage = ""
+repository = "https://github.com/ranzvi/cliparser"
+keywords = ["CLI", "Python", "Tool", "Simple"]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
+
