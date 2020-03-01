@@ -1,13 +1,13 @@
 [tool.poetry]
 name = "cli_parser"
-version = "0.1.2"
+version = "0.1.3"
 description = "Simple CLI Parser with command chaining"
 authors = ["Ran Zvi <ran.zvi@bluevine.com>"]
 maintainers = ["Ran Zvi <ran.zvi@bluevine.com>"]
 license = "MIT"
 readme = "README.md"
 homepage = ""
-repository = "https://github.com/ranzvi/cliparser"
+repository = "https://github.com/ranzvi/cli_parser"
 keywords = ["CLI", "Python", "Tool", "Simple"]
 
 [tool.poetry.dependencies]
